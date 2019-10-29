@@ -1,0 +1,161 @@
+
+
+var json = { "users": [
+	{
+	"id": "0",
+	"name": "Aladin",
+	"img": "img/aladin.jpg",
+	"slogan": "1001 night with me",
+	"age": "26",
+	"gender": "male",
+	"location": "Agrabah",
+	"like": "Adventures",
+	"dislike": "carpets that can not fly",
+	"hearts": "3"
+	},
+	
+	{
+	"id": "1",
+	"name": "Alice",
+	"img": "./img/alice.jpg",
+	"slogan": "Come to wonderland?",
+	"age": "20",
+	"gender": "female",
+	"location": "England",
+	"like": "white rabbits",
+	"dislike": "the red queen",
+	"hearts": ""
+	},
+	
+	{
+	"id": "2",
+	"name": "Arielle",
+	"img": "./img/arielle.jpg",
+	"slogan": "I love to swimm",
+	"age": "24",
+	"gender": "female",
+	"location": "Sea",
+	"like": "swimming in the sea",
+	"dislike": "fish eater",
+	"hearts": ""
+	},
+	
+		{
+	"id": "3",
+	"name": "Cinderella",
+	"img": "./img/cinderella.jpg",
+	"slogan": "I've lost my shoe.",
+	"age": "26",
+	"gender": "female",
+	"location": "England",
+	"like": "good fairy",
+	"dislike": "stepmother",
+	"hearts": ""
+	},
+	
+	{
+	"id": "4",
+	"name": "Jasmin",
+	"img": "./img/jasmin.jpg",
+	"slogan": "here is a quote",
+	"age": "18",
+	"gender": "female",
+	"location": "Orient",
+	"like": "Advantures",
+	"dislike": "Slowpoke",
+	"hearts": ""
+	},
+	
+	{
+	"id": "5",
+	"name": "Mulan",
+	"img": "./img/mulan.jpg",
+	"slogan": "here is a quote",
+	"age": "24",
+	"gender": "female",
+	"location": "China",
+	"like": "self-confident men",
+	"dislike": "Cowards",
+	"hearts": ""
+	},
+
+	{
+	"id": "6",
+	"name": "Pocahontas",
+	"img": "./img/pocahontas.jpg",
+	"slogan": "here is a quote",
+	"age": "26",
+	"gender": "female",
+	"location": "America",
+	"like": "Adventures",
+	"dislike": "",
+	"hearts": ""
+	},
+	
+	{
+	"id": "7",
+	"name": "Rapunzel",
+	"img": "./img/rapunzel.jpg",
+	"slogan": "here is a quote",
+	"age": "18",
+	"gender": "female",
+	"location": "Somewhere",
+	"like": "Fantasy",
+	"dislike": "",
+	"hearts": ""
+	},
+	
+	{
+	"id": "8",
+	"name": "Schneewittchen",
+	"img": "./img/schneewittchen.jpg",
+	"slogan": "here is a quote",
+	"age": "24",
+	"gender": "female",
+	"location": "behind 7 mountains",
+	"like": "Dwarfs",
+	"dislike": "evil witch",
+	"hearts": ""
+	},
+	
+	{
+	"id": "9",
+	"name": "Flinn",
+	"img": "./img/flinn.png",
+	"slogan": "here is a quote",
+	"age": "24",
+	"gender": "male",
+	"location": "Somewhere",
+	"like": "Swimming",
+	"dislike": "",
+	"hearts": ""
+	},
+	
+	{
+	"id": "10",
+	"name": "John",
+	"img": "./img/john.jpg",
+	"slogan": "here is a quote",
+	"age": "24",
+	"gender": "male",
+	"location": "Somewhere",
+	"like": "Swimming",
+	"dislike": "",
+	"hearts": ""
+	},
+	
+	{
+	"id": "11",
+	"name": "Prince Charmed",
+	"img": "./img/prince.png",
+	"slogan": "here is a quote",
+	"age": "24",
+	"gender": "female",
+	"location": "Somewhere",
+	"like": "Swimming",
+	"dislike": "",
+	"hearts": ""
+	}
+	
+]}
+

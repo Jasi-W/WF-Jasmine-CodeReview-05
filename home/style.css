@@ -1,0 +1,30 @@
+
+* { font-family: "Comic Sans MS"; }
+
+.box {
+	height: 15em;
+	overflow: hidden;
+	position: relative;
+	text-align: center;
+}
+
+.top-right {
+	position: absolute;
+	top: 8px;
+	right: 16px;
+}
+
+.box1 {
+	height: 30em;
+	overflow: hidden;
+	position: relative;
+	text-align: center;
+}
+
+i {
+	font-size: 2em;
+	cursor: pointer;
+}
+
+.fa-star { color: white; }
+.checked { color: blue; }
